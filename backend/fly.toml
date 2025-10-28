@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for hhk6079 on 2025-10-28T04:30:35+09:00
+# fly.toml app configuration file generated for test2022 on 2025-10-28T19:32:41+09:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hhk6079'
-primary_region = 'nrt'
+app = 'test2022'
+primary_region = 'sjc'
 
 [build]
 
